@@ -24,7 +24,9 @@ The **News Reader App** is an Android application that fetches the top 10 articl
 4. Start reading your favorite news offline!
 
 ## Demo
-Watch the full demonstration on YouTube: [Click Here](YOUR_YOUTUBE_LINK_HERE)
+[![Watch Demo](https://img.youtube.com/vi/JJZeqv5QCK8/0.jpg)](https://www.youtube.com/watch?v=JJZeqv5QCK8)
+
+
 
 ## API Reference
 - **Hacker News API**: [https://hacker-news.firebaseio.com/](https://hacker-news.firebaseio.com/)
